@@ -1,0 +1,12 @@
+item {
+    id: 1
+    name: 'paviljon'
+}
+item {
+    id: 2
+    name: 'restoran'
+}
+item {
+    id: 3
+    name: 'sport_field'
+}
